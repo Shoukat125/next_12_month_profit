@@ -9,8 +9,11 @@
 ---
 
 <div align="center">
-  <a href="https://businessforecasting-kzns6cgs9dtvqxclei8z39.streamlit.app/">
+  <a href="https://next-12month-profit.streamlit.app/">
     <img src="https://img.shields.io/badge/Streamlit-Live%20App-ff4b4b?style=for-the-badge&logo=streamlit" alt="Live App">
+  </a>
+  <a href="https://github.com/Shoukat125/next_12_month_profit/issues/1">
+    <img src="https://img.shields.io/badge/▶️_Watch-Technical_Demo-blue?style=for-the-badge&logo=github" alt="Demo Video">
   </a>
 </div>
 
